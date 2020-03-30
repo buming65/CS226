@@ -16,7 +16,7 @@
       <file leaf-file-name="KNN.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/ucr/cs/cs226/bli147/KNN.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
+            <state relative-caret-position="836">
               <caret line="44" column="26" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -82,7 +82,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,8 +148,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -256,15 +256,15 @@
       <workItem from="1572208917200" duration="16625000" />
       <workItem from="1572322246010" duration="127000" />
       <workItem from="1572322740515" duration="679000" />
+      <workItem from="1574902357816" duration="123000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18804000" />
+    <option name="totallyTimeSpent" value="18927000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="35" y="23" width="1645" height="1027" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="7" />
@@ -280,7 +280,7 @@
       <window_info anchor="bottom" id="Terminal" order="13" weight="0.32903227" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18902059" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19089207" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -316,6 +316,26 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/edu/ucr/cs/cs226/bli147/KNN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="44" column="26" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output/part-r-00000">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/ucr/cs/cs226/bli147/KNN.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="779">
@@ -393,20 +413,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/output/_temporary/0/_temporary/attempt_local1328565239_0001_r_000000_0/part-r-00000" />
     <entry file="file://$PROJECT_DIR$/output/part-r-00000">
-      <provider editor-type-id="LargeFileEditor">
-        <state>
-          <caret column="37" selection-start-column="19" selection-end-column="37" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="4" selection-end-line="1" />
         </state>
       </provider>
+      <provider editor-type-id="LargeFileEditor">
+        <state>
+          <caret column="37" selection-start-column="19" selection-end-column="37" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/ucr/cs/cs226/bli147/KNN.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
+        <state relative-caret-position="836">
           <caret line="44" column="26" selection-start-line="44" selection-start-column="23" selection-end-line="44" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
